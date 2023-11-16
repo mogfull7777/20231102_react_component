@@ -1,0 +1,15 @@
+.statue {
+  margin: 10px 0;
+}
+
+.boardTotal {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.boardLow:after {
+  clear: both;
+  content: "";
+  display: table;
+}
